@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-$ go get github.com/leejet/nat-probe
+$ go install github.com/leejet/nat-probe
 $ $GOPATH/bin/nat-probe
 ```
 
