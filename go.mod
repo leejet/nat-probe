@@ -1,4 +1,4 @@
-module nat-probe
+module github.com/leejet/nat-probe
 
 go 1.17
 
